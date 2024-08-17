@@ -1,6 +1,5 @@
 # Logs
 
-# Runtime data
 pids
 *.pid
 *.seed

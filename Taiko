@@ -1,7 +1,4 @@
 # Logs
-
-pids
-*.pid
 *.seed
 *.pid.lock
 

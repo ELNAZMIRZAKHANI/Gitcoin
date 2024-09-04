@@ -1,10 +1,6 @@
 # Logs
 *.seed
 *.pid.lock
-
-# TypeScript v1 declaration files
-typings/
-
 # TypeScript cache
 *.tsbuildinfo
 
